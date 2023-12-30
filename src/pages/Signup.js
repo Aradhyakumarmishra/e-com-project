@@ -22,10 +22,7 @@ const Signup = () => {
                               <CustomInput type="email" name="email" placeholder="Email" />
                               <CustomInput type="tel" name="mobile" placeholder="Mobile Number" />
                               <CustomInput type="password" name="password" placeholder="Password" />
-                             
-                          
-
-                          
+                                                       
                               <div>
                               
 
